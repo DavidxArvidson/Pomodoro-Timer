@@ -10,7 +10,7 @@ This application allows the user to:
 - When the focus time expires, an alarm plays and then the break timer starts.
 - When the break time expires, an alarm plays and then the focus timer starts.
 
-This was developed as an assignment for the Thinkful.com software engineering course and was developed using React.js, Bootstrap 4 for styling, and Open-iconic icons for icons.
+This was developed as an assignment for the Thinkful.com software engineering course. It was developed using React.js, Bootstrap 4 for styling, and Open-iconic icons for icons.
 
 The initial screen lets the user set the length of the focus and break sessions:
 
